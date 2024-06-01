@@ -11,7 +11,7 @@ Allows prediction of species for new flowers with unknown labels.
 Files included:
 
 iris_classification.py (or a preferred filename): Contains the Python code for data loading, preprocessing (if applicable), training, evaluation, and prediction.
-README.md (optional): Provides a brief overview of the project, instructions on how to run the code, and any additional notes.
+
 Technologies used:
 
 Python
